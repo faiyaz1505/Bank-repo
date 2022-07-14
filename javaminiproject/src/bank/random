@@ -1,0 +1,6 @@
+class Random{
+int a;
+int b;
+
+
+}
